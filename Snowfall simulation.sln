@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowfall simulation", "Snowfall simulation\Snowfall simulation.csproj", "{243210E7-8A4E-4E2C-9544-03BFFE77216B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243210E7-8A4E-4E2C-9544-03BFFE77216B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243210E7-8A4E-4E2C-9544-03BFFE77216B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243210E7-8A4E-4E2C-9544-03BFFE77216B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243210E7-8A4E-4E2C-9544-03BFFE77216B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130FA937-094F-4AC2-B21C-49CABFA0C5CC}
+	EndGlobalSection
+EndGlobal
